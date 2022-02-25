@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YongjunHeo12
-- 👀 I’m interested in DataScience
+- 👀 I’m interested in data science and data analysis
 - 🌱 I’m currently learning R, Python
 - 📫 Contact dydwns1222@gmail.com
 
